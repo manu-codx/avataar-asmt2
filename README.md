@@ -2,6 +2,11 @@
 2nd assessment on ui login page
 
 
-the ootput of this has been shared below 
-with links 
+the otput of this has been shared below with links :
+
+1st image with google authintication and inellisence
+https://github.com/manu-codx/avataar-asmt2/issues/1#issue-1144944471
+
+2nd image with error message as password incorrect/enter password
+
 
